@@ -67,4 +67,7 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=alexhuynh01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
