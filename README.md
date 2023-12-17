@@ -71,6 +71,6 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=alexhuynh01&icon=0&color=0" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=alexhuynh01&icon=0&color=0" alt="Visit Count" style="height: 100%;"/>
   </a>
 </p>
