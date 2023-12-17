@@ -40,25 +40,22 @@
 &nbsp;
 
 <br>
-<h2 align="center">Where to find me</h2>
+<h2 align="center">📑 Where to find me 📑</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
 
   <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/cute-clipart/100/000000/facebook-new.png"  />
   </a>
   <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/cute-clipart/100/000000/linkedin.png" />
   </a>
   <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/cute-clipart/100/000000/instagram-new.png"/>
   </a>
   <a href="#" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/cute-clipart/100/000000/gmail.png"  />
   </a>
 </div>
 
