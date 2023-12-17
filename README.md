@@ -46,10 +46,10 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/cute-clipart/100/000000/facebook-new.png"  />
   </a>
-  <a href="#" target="blank">
+  <a href="https://www.linkedin.com/in/alex-huynh-884341296/" target="blank">
     <img src="https://img.icons8.com/cute-clipart/100/000000/linkedin.png" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://www.instagram.com/co_gi_hot_0/" target="blank">
     <img src="https://img.icons8.com/cute-clipart/100/000000/instagram-new.png"/>
   </a>
   <a href="#" target="top">
