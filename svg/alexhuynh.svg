@@ -27,12 +27,13 @@
 					border-radius: 10px;
 					color: white;
           position: relative;
+          text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 				}
         
         .greeting {
           overflow: hidden;
           font-weight: bold;
-					font-size: 30px;
+					font-size: 32px;
 					line-height: 1.3;
 					letter-spacing: 5px;
           animation:  typing 5s forwards;
@@ -42,21 +43,22 @@
 				.skills {
           display: inline-flex;
           margin: 30px 0 ;
-          gap: 7px;
+
           margin-right: 70px;
         }
         .skills_icon>img {
-          width: 80px;
-          height: 80px;
+          filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.6));
+          width: 82px;
+          height: 82px;
         }
         .skills_icon.nodejs>img {
-          width: 74px;
+          width: 77px;
         }
 			</style>
 
 			<div class="container">
 				<div class="greeting">
-          Hi Everyone !!!<br/>I'm Alexhuynh from VietNam
+          Hi everyone !!!<br/>I'm Alex Huynh from Vietnam
         </div>
           <div class="skills_icon">
             <img
