@@ -1,4 +1,4 @@
-<!-- Reference source trungquandev.. -->
+<!-- Reference source [trungquandev](https://github.com/trungquandev/trungquandev) -->
 
 <a href="#" target="_blank">
   <img src="svg/alexhuynh.svg" width="1200" />
@@ -44,7 +44,7 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="#" target="blank">
+  <a href="https://www.facebook.com/alexhuynh11" target="blank">
     <img src="https://img.icons8.com/cute-clipart/100/000000/facebook-new.png"  />
   </a>
   <a href="https://www.linkedin.com/in/alex-huynh-884341296/" target="blank">
