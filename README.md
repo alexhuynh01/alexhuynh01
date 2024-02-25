@@ -53,7 +53,7 @@
   <a href="https://www.instagram.com/co_gi_hot_0/" target="blank">
     <img src="https://img.icons8.com/cute-clipart/100/000000/instagram-new.png"/>
   </a>
-  <a href="#" target="top">
+  <a href="mailto:alexhuynh139@gmail.com" target="blank">
     <img src="https://img.icons8.com/cute-clipart/100/000000/gmail.png"  />
   </a>
 </div>
