@@ -44,7 +44,7 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://www.facebook.com/alexhuynh01" target="blank">
+  <a href="facebook.com/profile.php" target="blank">
     <img src="https://img.icons8.com/cute-clipart/100/000000/facebook-new.png"  />
   </a>
   <a href="https://www.linkedin.com/in/alex-huynh-884341296/" target="blank">
